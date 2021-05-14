@@ -39,3 +39,5 @@ root                    (project root folder)
 Nick Campbell nickcampbell1991@gmail.com
 Kathleen Ledesma - kat_joone@yahoo.com
 Erik Machuca Saez - mac19024@byui.edu
+kouadio kouao kou15002@byui.edu
+
