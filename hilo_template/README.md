@@ -38,3 +38,6 @@ root                    (project root folder)
 * TODO: Add your names and emails here
 Nick Campbell nickcampbell1991@gmail.com
 Kathleen Ledesma - kat_joone@yahoo.com
+
+kouadio kouao
+kou15002@byui.edu
