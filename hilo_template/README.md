@@ -38,3 +38,4 @@ root                    (project root folder)
 * TODO: Add your names and emails here
 Nick Campbell nickcampbell1991@gmail.com
 Kathleen Ledesma - kat_joone@yahoo.com
+Erik Machuca Saez - mac19024@byui.edu
